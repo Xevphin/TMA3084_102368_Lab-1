@@ -8,8 +8,7 @@
             "name": "Dart & Flutter",
             "request": "launch",
             "type": "dart",
-            "program": "helloworld.dart",
-            "console": "terminal"
+            "program": "helloworld.dart"
         }
     ]
 }
