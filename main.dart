@@ -3,6 +3,8 @@ import "dart:io";
 num calculateTotalPrice(num quantity, num price) { // Function to calculate total price
   return quantity * price;
 }
+
+
 void main() {
 
   num? totalPrice, quantity; // Declare variables to store total price and quantity
